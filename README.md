@@ -47,5 +47,15 @@ We compared four hypothesis-driven models using a Repeated Stratified K-Fold val
    ``bash
    git clone [https://github.com/JohanLiebert28/ICECTE-2026.git](https://github.com/hazrotali2003028/ICECTE-2026.git)
    cd ICECTE-2026
+2. Install dependencies:
+   pip install mne numpy pandas scipy scikit-learn xgboost shap
 
-   
+🔗 Citation
+If you use this code or methodology, please cite our paper:
+@inproceedings{ali2026falsifying,
+  title={Falsifying Complexity: A Non-Linear Interaction Feature Outperforms Canonical and PAC Features for EEG-Based ASD Classification},
+  author={Hazrot Ali and Monira Islam},
+  booktitle={2026 International Conference on Electrical, Computer and Telecommunication Engineering (ICECTE)},
+  year={2026},
+  organization={IEEE}
+}
