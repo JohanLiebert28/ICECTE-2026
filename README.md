@@ -45,7 +45,7 @@ We compared four hypothesis-driven models using a Repeated Stratified K-Fold val
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ``bash
-   git clone [https://github.com/JohanLiebert28/ICECTE-2026.git](https://github.com/JohanLiebert28/ICECTE-2026.git)
+   git clone [https://github.com/JohanLiebert28/ICECTE-2026.git](https://github.com/hazrotali2003028/ICECTE-2026.git)
    cd ICECTE-2026
 
    
